@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "foodwastetracker-cac7e",
+  "private_key_id": "28b5512911af580158ae8fc5314dae361b0a86cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOWzPluLMKFe/9\nVXGFAkb6eUk6pSlFdtU/P3CKeqkvygj7VuT/s2XgXNLp+dWosZFivmiGBwJN0oAv\nR0Dl14AJFywdB5sTDTv+542IDTZ7+SLm4CaKGPqrtfIXv9QOaCAdH9apmxHbShIK\n+LyZNCMetAoUfr7fPwCnh7aT7gl18g0C/aZ6a5zffMqnemT9GpvUutOP1E6GK6xD\nlOyq6jgcmQnUFRR1ebEDK6YeEoGpYXV9IfwbPF3x7noBWjf33tWTo1hXiw7zpqYN\nr4Qco4c9brOdJ1svcwiwp0J6EgFOepjp15ASBvkUPkjcfnxngybbtSmrabzXDQzy\n5xfUNzVjAgMBAAECggEAAjDMGSZg9vBEe6kDcLEKx5LzOghNnMiJ2onO4QqnLNmW\njsuVBYxMromvIzOZgpmM67CTajCUa/8nwtJ9YKwSx9EH+EBkNgRXnoIQrv3JD1pT\nm6rqXOiqftbzbUMh78DRcbFKO9zrhuzaXznZqR/gxHmvyAX1SPkuuOVBPYCFu79i\nbASNCud4gfoTRPxFOR0hXBJdlXuafFsFOiOIuL63XuJPCNxbc/Ygo18plzN1rPhG\niIyKfyttovydYtNp5pQ4iTjNCvC9dtn5d9fCm+IvbGprnF0TtjWiFmp6ZnQnNnlx\neuZmDvdT0ivRSh43/NCXxWIvT3zOGu0BgIgdF0xfnQKBgQDFFskxvIc9keG+9g5t\ny8/zIs7wt+kF6bOnsGZ0zzfcvMGdenmRkCRfOlwAN2KkpGac3Q/RjbJ0YFcDIgYA\nydmdS3GLv1+ZGyXPTS6EO0PWgOqc4iF6PhXT2463DVxSTUouVV2eGwLgAZ8Q1RhW\nonQyHbBs4vxzTMG83MjSs8e0VQKBgQC46Eb4n87x6RAhoo/U04i6650HTuxvFCdm\n5f6ngnyj0iblhEfKZgLLoQIsF2l0EtOgcZlTXjdV+yBRUZveVjk6dEcOBkP69njj\nfY75Hfep++OnWT75XarOhX/ntrDx/JSRlaZAT0FT9usAMy9KcQQlW+tuTUi1302d\noC3ZpZW61wKBgFiBMPxKwxidCBju+e/IVKvEd9WVYOks12Z4Sqot29IeWXvUYf9C\nEXNKC8J1HLD+uq26f74EuZyVHr3ja3qzKiv+kxDEcbOZg1MiP79VtdL/tVuaGJqC\ngt7Oe7osH8c9uhAweYfkbVgWok22w+UzsqZGutFK5T8Juv6Kzwv/e7C5AoGABZhJ\npXY4bctuiIYBsh/gcD921eTGdKn4cz2cUfc5zD8snB8/iNlDVmP9y9W9hByZuK4X\nRJWCOSDLHorIm5aiTql8COmZnvtcNw3yiIkmmEcd4U9q/2KdK3iQoTM+8WOCH1GW\n4TVEtcSv4aaq1KbMyFCatBC0lYQ3NgDFwmMnP6sCgYAZFgx4FK9ToZFCZmeNX355\nAFyFG5jLFnI8qbo0o2fRV5Wl3vU6Q9x0tgIOGmA1RrCpriTsZwOtpd/ta/V4Qzfe\nyUmcPxNRGmQA6Jlrs16aWCUb+oG+nIwIsJYBrYSsfP73lIQ5ov/qDHPDOqus3zgr\n4kai7PhvRoTm2KeU77HHQg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@foodwastetracker-cac7e.iam.gserviceaccount.com",
+  "client_id": "105424762940177784329",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40foodwastetracker-cac7e.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
